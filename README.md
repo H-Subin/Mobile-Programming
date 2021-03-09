@@ -12,3 +12,9 @@
 
 
 ![모프_hello android](https://user-images.githubusercontent.com/76034369/110299421-fca30c80-8038-11eb-9df6-b2f4e1d09526.png)
+
+
+
+# sm_week2
+강의 내 실습 캡쳐본
+![20210309_105720](https://user-images.githubusercontent.com/76034369/110409840-45a3a100-80cb-11eb-8ff3-b505ffe65cab.png)
