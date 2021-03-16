@@ -23,5 +23,6 @@
 
 
 #sm_week3
+#  sm_week3
 LifeCycle 확인 동영상 제작
 https://youtu.be/xTGybZ7Hk1w
