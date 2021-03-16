@@ -17,7 +17,9 @@
 
 # sm_week2
 ## 강의 내 실습 캡쳐본
-![20210309_105720](https://user-images.githubusercontent.com/76034369/110409840-45a3a100-80cb-11eb-8ff#3-b505ffe65cab.png)
+![20210309_105720](https://user-images.githubusercontent.com/76034369/110409840-45a3a100-80cb-11eb-8ff3-b505ffe65cab.png)
+
+
 
 
 
